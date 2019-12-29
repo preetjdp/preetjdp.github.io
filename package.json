@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-saas-marketing",
+  "name": "preet-website",
   "private": true,
-  "description": "A simple one page marketing starter for saas companies",
+  "description": "This is Preet's website",
   "version": "0.1.0",
-  "author": "Keegan Burkett <keegan.t.marciniak@gmail.com>",
+  "author": "Preet Parekh <mail@preetjdp.dev>",
   "dependencies": {
     "gatsby": "^2.15.31",
     "gatsby-image": "^2.2.24",
