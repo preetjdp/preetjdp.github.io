@@ -1,6 +1,9 @@
 name: Build and Deploy
 
-on: [push]
+on:
+  push:
+    branches:
+      - development # Push events on master branch
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
