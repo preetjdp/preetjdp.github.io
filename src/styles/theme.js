@@ -20,15 +20,18 @@ const theme = {
     large: "font-size: 28px; line-height: 30px",
     larger: "font-size: 40px; line-height: 50px",
     xlarge: "font-size: 48px; line-height: 48px",
+    xxlarge: "font-size: 80px; line-height: 70px"
   },
 
   color: {
     primary: "#071435",
     secondary: "#098c8c",
     accent: "#cca86e",
+    pink: "#FDDBF6",
     background: {
       white: "#ffffff",
       light: "#f8f8f8",
+      purple: "#1D244B"
     },
     white: {
       regular: "#ffffff",
